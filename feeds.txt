@@ -10,3 +10,30 @@ CNET|https://www.cnet.com/rss/news/
 MobileSyrup|https://mobilesyrup.com/feed/
 MakeUseOf|https://www.makeuseof.com/feed/
 Tom's Hardware|https://www.tomshardware.com/feeds/all
+How-To Geek|https://www.howtogeek.com/feed/
+National Geographic|https://www.nationalgeographic.com/content/natgeo/en_us/index.rss
+Popular Mechanics|https://www.popularmechanics.com/rss/all.xml/
+Popular Science|https://www.popsci.com/rss/
+BOE Report|https://boereport.com/feed/
+OilPrice|https://oilprice.com/rss/main
+Rigzone|https://www.rigzone.com/news/rss/
+World Oil|https://www.worldoil.com/rss.xml
+Daily Wire|https://www.dailywire.com/feeds/rss.xml
+Western Standard|https://westernstandard.news/feed/
+Times of Israel|https://www.timesofisrael.com/feed/
+Times of Israel (Breaking)|https://www.timesofisrael.com/breaking-news/feed/
+Junge Freiheit|https://jungefreiheit.de/feed/
+Sam Cooper|https://samcooper.substack.com/feed
+The Wright Report|https://www.thewrightreport.com/feed
+Budget Bytes" type="rss" xmlUrl="https://www.budgetbytes.com/feed/
+Spend With Pennies|https://www.spendwithpennies.com/feed/
+Damn Delicious|https://damndelicious.net/feed/
+Skinnytaste|https://www.skinnytaste.com/feed/
+EatingWell|https://www.eatingwell.com/feed/
+BBC Good Food|https://www.bbcgoodfood.com/rss.xml
+French Cooking Academy|https://www.thefrenchcookingacademy.com/feed/
+Serious Eats|https://www.seriouseats.com/rss
+
+    <outline text="Shopping">
+      <outline text="eBay Example Search" type="rss" xmlUrl="https://www.ebay.com/sch/i.html?_nkw=mini+pc&_rss=1"/>
+    </outline>
