@@ -9,7 +9,7 @@ Gizmodo|https://gizmodo.com/rss
 CNET|https://www.cnet.com/rss/news/
 MobileSyrup|https://mobilesyrup.com/feed/
 MakeUseOf|https://www.makeuseof.com/feed/
-Tom's Hardware|https://www.tomshardware.com/feeds/all
+Tom's Hardware|https://www.tomshardware.com/feeds.xml
 How-To Geek|https://www.howtogeek.com/feed/
 National Geographic|https://www.nationalgeographic.com/content/natgeo/en_us/index.rss
 Popular Mechanics|https://www.popularmechanics.com/rss/all.xml/
