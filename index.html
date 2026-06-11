@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Tech News</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: Arial; padding: 15px; }
+    h1 { font-size: 24px; }
+    .article { margin-bottom: 15px; }
+    .source { color: gray; font-size: 12px; }
+  </style>
+</head>
+<body>
+
+<h1>📱 My Tech News</h1>
+<p id="updated"></p>
+
+<div id="news"></div>
+
+<script>
+fetch('news.json')
+  .then(res => res.json())
+  .then(data => {
+    document.getElementById('updated').innerText =
+      "Updated: " + new Date(data.updated).toLocaleString();
+
+    let html = "";
+
+    data.articles.forEach(a => {
+      html += `
+        <div class="article">
+          <div class="source">${a.source}</div>
+          <a href="${a.link}" target="_blank">${a.title}</a>
+        </div>
+      `;
+    });
+
+    document.getElementById('news').innerHTML = html;
+  });
+</script>
+
+</body>
+</html>
