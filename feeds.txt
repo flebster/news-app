@@ -25,7 +25,7 @@ Times of Israel (Breaking)|https://www.timesofisrael.com/breaking-news/feed/
 Junge Freiheit|https://jungefreiheit.de/feed/
 Sam Cooper|https://samcooper.substack.com/feed
 The Wright Report|https://www.thewrightreport.com/feed
-Budget Bytes" type="rss" xmlUrl="https://www.budgetbytes.com/feed/
+Budget Bytes|https://www.budgetbytes.com/feed/
 Spend With Pennies|https://www.spendwithpennies.com/feed/
 Damn Delicious|https://damndelicious.net/feed/
 Skinnytaste|https://www.skinnytaste.com/feed/
