@@ -1,0 +1,12 @@
+Lifehacker|https://lifehacker.com/feed
+iPhone in Canada|https://www.iphoneincanada.ca/feed/
+iFixit|https://www.ifixit.com/News/rss
+TechCrunch|https://techcrunch.com/feed/
+Wired|https://www.wired.com/feed/rss
+Ars Technica|https://feeds.arstechnica.com/arstechnica/index
+Engadget|https://www.engadget.com/rss.xml
+Gizmodo|https://gizmodo.com/rss
+CNET|https://www.cnet.com/rss/news/
+MobileSyrup|https://mobilesyrup.com/feed/
+MakeUseOf|https://www.makeuseof.com/feed/
+Tom's Hardware|https://www.tomshardware.com/feeds/all
