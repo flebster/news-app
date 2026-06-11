@@ -33,7 +33,6 @@ EatingWell|https://www.eatingwell.com/feed/
 BBC Good Food|https://www.bbcgoodfood.com/rss.xml
 French Cooking Academy|https://www.thefrenchcookingacademy.com/feed/
 Serious Eats|https://www.seriouseats.com/rss
-
-    <outline text="Shopping">
-      <outline text="eBay Example Search" type="rss" xmlUrl="https://www.ebay.com/sch/i.html?_nkw=mini+pc&_rss=1"/>
-    </outline>
+eBay mini pc|https://www.ebay.com/sch/i.html?_nkw=mini+pc&_rss=1
+eBay mini pc|https://www.ebay.com/sch/i.html?_nkw=macbook+calgary&_rss=1
+eBay mini pc|https://www.ebay.com/sch/i.html?_nkw=jacket+40R&_rss=1
