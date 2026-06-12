@@ -22,8 +22,6 @@ Western Standard|https://westernstandard.news/feed/
 Times of Israel|https://www.timesofisrael.com/feed/
 Times of Israel (Breaking)|https://www.timesofisrael.com/breaking-news/feed/
 Junge Freiheit|https://jungefreiheit.de/feed/
-Sam Cooper|https://samcooper.substack.com/feed
-The Wright Report|https://www.thewrightreport.com/feed
 Budget Bytes|https://www.budgetbytes.com/feed/
 Spend With Pennies|https://www.spendwithpennies.com/feed/
 Damn Delicious|https://damndelicious.net/feed/
@@ -32,7 +30,7 @@ EatingWell|https://www.eatingwell.com/feed/
 BBC Good Food|https://www.bbcgoodfood.com/rss.xml
 French Cooking Academy|https://www.thefrenchcookingacademy.com/feed/
 Serious Eats|https://www.seriouseats.com/rss
-eBay mini pc|https://www.ebay.com/sch/i.html?_nkw=mini+pc&_rss=1
-eBay mini pc|https://www.ebay.com/sch/i.html?_nkw=macbook+calgary&_rss=1
-eBay mini pc|https://www.ebay.com/sch/i.html?_nkw=jacket+40R&_rss=1
+SEARCH|Mini PC Calgary Computer Wholesale|https://www.ebay.com/sch/i.html?_nkw=mini+pc+calgary+computer+wholesale&_rss=1|
+SEARCH|MacBook Calgary Wholesale|https://www.ebay.com/sch/i.html?_nkw=macbook+calgary+wholesale&_rss=1|
+SEARCH|Canali Jacket 40R Caspianpearl|https://www.ebay.com/sch/i.html?_nkw=canali+40r+jacket&_rss=1|
 Tom's Hardware|https://www.tomshardware.com/feeds.xml
