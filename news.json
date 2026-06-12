@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T03:10:00.920655",
+  "updated": "2026-06-12T03:26:38.450827",
   "articles": [
     {
       "source": "Lifehacker",
@@ -501,6 +501,12 @@
     },
     {
       "source": "Times of Israel",
+      "title": "Alleged Hamas operative ordered detained pending trial in Greece on terror charges",
+      "link": "https://www.timesofisrael.com/alleged-hamas-operative-ordered-detained-pending-trial-in-greece-on-terror-charges/",
+      "published": "Fri, 12 Jun 2026 03:05:11 +0000"
+    },
+    {
+      "source": "Times of Israel",
       "title": "French official accuses Israeli firm of also meddling in elections in New York City, Scotland",
       "link": "https://www.timesofisrael.com/french-official-accuses-israeli-firm-of-also-meddling-in-elections-in-new-york-city-scotland/",
       "published": "Fri, 12 Jun 2026 02:18:00 +0000"
@@ -524,16 +530,10 @@
       "published": "Thu, 11 Jun 2026 22:43:57 +0000"
     },
     {
-      "source": "Times of Israel",
-      "title": "Netanyahu reportedly not given heads-up about Trump\u2019s Iran deal announcement, was caught off guard",
-      "link": "https://www.timesofisrael.com/liveblog-june-12-2026/",
-      "published": "Thu, 11 Jun 2026 22:43:48 +0000"
-    },
-    {
       "source": "Junge Freiheit",
       "title": "Interview mit Berlins AfD-Spitzenkandidatin War Kai Wegner gar nicht Tennis spielen, Frau Brinker?",
       "link": "https://jungefreiheit.de/politik/deutschland/2026/war-kai-wegner-gar-nicht-tennis-spielen-frau-brinker/",
-      "published": "Thu, 11 Jun 2026 20:13:59 +0000"
+      "published": "Fri, 12 Jun 2026 03:00:59 +0000"
     },
     {
       "source": "Junge Freiheit",
@@ -558,12 +558,6 @@
       "title": "Verkehrspolitik Erfolgsgeschichte Stuttgart 21 \u2013 oder: Deutschland kann es immer noch",
       "link": "https://jungefreiheit.de/debatte/kommentar/2026/erfolgsgeschichte-stuttgart-21-oder-deutschland-kann-es-immer-noch/",
       "published": "Thu, 11 Jun 2026 15:15:27 +0000"
-    },
-    {
-      "source": "The Wright Report",
-      "title": "Hello world!",
-      "link": "https://thewrightreport.com/2025/12/23/hello-world/",
-      "published": "Tue, 23 Dec 2025 07:27:58 +0000"
     },
     {
       "source": "Budget Bytes",
