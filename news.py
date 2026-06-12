@@ -23,7 +23,7 @@ for name, url in feeds:
         })
 
 # sort newest first (best effort)
-all_articles = all_articles[:50]
+all_articles = all_articles[:200]
 
 with open("news.json", "w") as f:
     json.dump({
