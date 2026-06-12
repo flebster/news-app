@@ -30,7 +30,7 @@ EatingWell|https://www.eatingwell.com/feed/
 BBC Good Food|https://www.bbcgoodfood.com/rss.xml
 French Cooking Academy|https://www.thefrenchcookingacademy.com/feed/
 Serious Eats|https://www.seriouseats.com/rss
-SEARCH|Mini PC Calgary Computer Wholesale|https://www.ebay.com/sch/i.html?_nkw=mini+pc+calgary+computer+wholesale&_rss=1|
-SEARCH|MacBook Calgary Wholesale|https://www.ebay.com/sch/i.html?_nkw=macbook+calgary+wholesale&_rss=1|
-SEARCH|Canali Jacket 40R Caspianpearl|https://www.ebay.com/sch/i.html?_nkw=canali+40r+jacket&_rss=1|
+Mini PC Calgary Computer Wholesale|https://www.ebay.com/sch/i.html?_nkw=mini+pc+calgary+computer+wholesale&_rss=1
+MacBook Calgary Wholesale|https://www.ebay.com/sch/i.html?_nkw=macbook+calgary+wholesale&_rss=1
+Canali Jacket 40R Caspianpearl|https://www.ebay.com/sch/i.html?_nkw=canali+40r+jacket&_rss=1
 Tom's Hardware|https://www.tomshardware.com/feeds.xml
