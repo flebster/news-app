@@ -18,8 +18,8 @@ with open("feeds.txt", "r") as f:
             print(f"Skipping bad line: {line}")
             continue
 
-        name, category, url = parts
-        feeds.append((name, category, url))
+        name,  url = parts
+        feeds.append((name, url))
 
 # --- DEBUG: SHOW LOADED FEEDS ---
 print("\nLOADING FEEDS:")
@@ -31,7 +31,7 @@ print(f"\nTOTAL FEEDS: {len(feeds)}\n")
 # --- COLLECT ARTICLES ---
 all_articles = []
 
-for name, category, url in feeds:
+for name, url in feeds:
     print(f"\nProcessing: {name}")
     print(f"URL: {url}")
 
@@ -43,7 +43,6 @@ for name, category, url in feeds:
         for entry in feed.entries[:5]:
             all_articles.append({
                 "source": name,
-                "category": category,
                 "title": entry.title,
                 "link": entry.link,
                 "published": entry.get("published", "")
