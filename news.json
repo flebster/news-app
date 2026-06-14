@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T14:58:15.312858",
+  "updated": "2026-06-14T15:07:10.137027",
   "articles": [
     {
       "source": "Lifehacker",
@@ -33,6 +33,12 @@
     },
     {
       "source": "iPhone in Canada",
+      "title": "The US Govt Yanked Anthropic\u2019s Top AI Models Offline. Here\u2019s What It Means for Canada",
+      "link": "https://www.iphoneincanada.ca/2026/06/13/anthropic-fable-5-mythos-5-us-government-shutdown/",
+      "published": "Sat, 13 Jun 2026 16:19:35 +0000"
+    },
+    {
+      "source": "iPhone in Canada",
       "title": "Google Just Brought Its Beloved Flight Simulator to the Web. Here\u2019s How to Try It",
       "link": "https://www.iphoneincanada.ca/2026/06/13/google-earth-flight-simulator-web-browser/",
       "published": "Sat, 13 Jun 2026 12:00:55 +0000"
@@ -54,12 +60,6 @@
       "title": "Hidden iOS 27 Feature Teases Apple\u2019s Foldable \u2018iPhone Ultra\u2019",
       "link": "https://www.iphoneincanada.ca/2026/06/12/hidden-ios-27-feature-teases-apples-foldable-iphone-ultra/",
       "published": "Fri, 12 Jun 2026 19:17:56 +0000"
-    },
-    {
-      "source": "iPhone in Canada",
-      "title": "MrBeast Becomes the First YouTuber to Hit 500 Million Subscribers",
-      "link": "https://www.iphoneincanada.ca/2026/06/12/mrbeast-becomes-the-first-youtuber-to-hit-500-million-subscribers/",
-      "published": "Fri, 12 Jun 2026 19:09:44 +0000"
     },
     {
       "source": "iFixit",
@@ -93,63 +93,69 @@
     },
     {
       "source": "TechCrunch",
-      "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
-      "link": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
-      "published": "Sat, 13 Jun 2026 11:00:00 +0000"
+      "title": "The new Sonos Play has become my go-to desk and kitchen speaker",
+      "link": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/",
+      "published": "Sun, 14 Jun 2026 14:00:00 +0000"
     },
     {
       "source": "TechCrunch",
-      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
-      "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
-      "published": "Sat, 13 Jun 2026 04:14:19 +0000"
+      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "published": "Sun, 14 Jun 2026 03:00:00 +0000"
     },
     {
       "source": "TechCrunch",
-      "title": "Anthropic\u2019s safety warnings may have just backfired \u2014 the government has pulled the plug on its most powerful AI",
-      "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-      "published": "Sat, 13 Jun 2026 02:26:30 +0000"
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing\u2019s demand",
+      "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "published": "Sun, 14 Jun 2026 00:03:49 +0000"
     },
     {
       "source": "TechCrunch",
-      "title": "SpaceX IPO: Live updates on everything you need to know",
-      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
-      "published": "Fri, 12 Jun 2026 23:15:14 +0000"
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "published": "Sat, 13 Jun 2026 20:42:31 +0000"
     },
     {
       "source": "TechCrunch",
-      "title": "Meta\u2019s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
-      "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-      "published": "Fri, 12 Jun 2026 23:00:54 +0000"
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "published": "Sat, 13 Jun 2026 19:11:41 +0000"
     },
     {
       "source": "Wired",
-      "title": "Meet the New Dyson Vacuums: V16 Piston Animal, V10 Konical, V8 Cyclone (2026)",
-      "link": "https://www.wired.com/story/meet-dysons-new-cordless-vacuum-lineup/",
-      "published": "Sat, 13 Jun 2026 11:33:00 +0000"
+      "title": "20 Best Gifts for Men, Manly Men, and Menly Man Men (2026)",
+      "link": "https://www.wired.com/gallery/best-gifts-for-men-2026/",
+      "published": "Sun, 14 Jun 2026 11:36:00 +0000"
     },
     {
       "source": "Wired",
-      "title": "How Can Soccer Players Bend Their Shots in Midair?",
-      "link": "https://www.wired.com/story/how-can-soccer-players-bend-their-shots-in-midair/",
-      "published": "Sat, 13 Jun 2026 11:00:00 +0000"
+      "title": "19 Best Gifts for Plant Lovers and Gardeners (2026)",
+      "link": "https://www.wired.com/story/the-best-gifts-for-plant-lovers-and-gardeners-2026/",
+      "published": "Sun, 14 Jun 2026 11:00:00 +0000"
     },
     {
       "source": "Wired",
-      "title": "The FCC Wants to Kill Burner Phones",
-      "link": "https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones/",
-      "published": "Sat, 13 Jun 2026 10:30:00 +0000"
+      "title": "Suunto Spark Review: The Perfect Pair for Runs and Rides",
+      "link": "https://www.wired.com/review/suunto-spark/",
+      "published": "Sun, 14 Jun 2026 10:30:00 +0000"
     },
     {
       "source": "Wired",
-      "title": "EcoFlow PowerOcean Battery Review: Cutting My Bill in Half",
-      "link": "https://www.wired.com/review/ecoflow-powerocean-home-battery/",
-      "published": "Sat, 13 Jun 2026 10:30:00 +0000"
+      "title": "The Strait of Hormuz Has Been Closed for 100 Days. Why Aren\u2019t Oil Prices Higher?",
+      "link": "https://www.wired.com/story/strait-of-hormuz-closed-100-days-why-arent-oil-prices-higher/",
+      "published": "Sun, 14 Jun 2026 10:00:00 +0000"
     },
     {
       "source": "Wired",
-      "title": "Rivian\u2019s CEO on Tesla\u2019s Cybertruck, Ferrari\u2019s Luce, and What Happens If the R2 Fails",
-      "link": "https://www.wired.com/story/interview-with-rivian-ceo-rj-scaringe/",
-      "published": "Sat, 13 Jun 2026 10:00:00 +0000"
+      "title": "Laduora Duo 4-in-1 Red Light Therapy Scalp and Hair Care Device Review: Custom Goals",
+      "link": "https://www.wired.com/review/laduora-duo-4-in-1-pod-based-scalp-and-hair-care-device/",
+      "published": "Sun, 14 Jun 2026 09:35:00 +0000"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Review: Disclosure Day is big on action, light on ideas",
+      "link": "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/",
+      "published": "Sat, 13 Jun 2026 17:17:44 +0000"
     },
     {
       "source": "Ars Technica",
@@ -176,10 +182,28 @@
       "published": "Fri, 12 Jun 2026 19:26:47 +0000"
     },
     {
-      "source": "Ars Technica",
-      "title": "Controversial FISA spying law expires tonight. The spying will continue.",
-      "link": "https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue/",
-      "published": "Fri, 12 Jun 2026 18:57:51 +0000"
+      "source": "Engadget",
+      "title": "Apple TV 4K multiview: How to watch four live sports feeds at once",
+      "link": "https://www.engadget.com/2192442/apple-tv-4k-multiview-sports-live-events/",
+      "published": "Sun, 14 Jun 2026 13:30:00 +0000"
+    },
+    {
+      "source": "Engadget",
+      "title": "Apple Watch alternatives that will last for 7 days on a charge",
+      "link": "https://www.engadget.com/2192635/apple-watch-alternatives-7-day-battery/",
+      "published": "Sat, 13 Jun 2026 18:30:00 +0000"
+    },
+    {
+      "source": "Engadget",
+      "title": "The Creepshow video game is coming out this summer",
+      "link": "https://www.engadget.com/2193718/creepshow-shudder-video-game-adaptation-is-coming-out-this-summer/",
+      "published": "Sat, 13 Jun 2026 16:26:56 +0000"
+    },
+    {
+      "source": "Engadget",
+      "title": "Why your cardiologist might tell you to skip AirPods",
+      "link": "https://www.engadget.com/2193554/airpods-pacemakers-magnet-interference/",
+      "published": "Sat, 13 Jun 2026 15:30:00 +0000"
     },
     {
       "source": "Engadget",
@@ -188,58 +212,34 @@
       "published": "Sat, 13 Jun 2026 14:00:00 +0000"
     },
     {
-      "source": "Engadget",
-      "title": "Why some USB ports are purple (and why they're rarely sold in the US)",
-      "link": "https://www.engadget.com/2190885/why-some-usb-ports-are-purple-and-why-they-re-rarely-sold-in-the-us/",
-      "published": "Sat, 13 Jun 2026 13:30:00 +0000"
-    },
-    {
-      "source": "Engadget",
-      "title": "Parker Solar Probe makes another flyby of the sun, solar energy bags a win, and more science stories",
-      "link": "https://www.engadget.com/2193686/parker-solar-probe-makes-another-flyby-of-the-sun-solar-energy-bags-a-win-science-news/",
-      "published": "Sat, 13 Jun 2026 13:30:00 +0000"
-    },
-    {
-      "source": "Engadget",
-      "title": "A report on the benefits of AI was reportedly full of AI hallucinations",
-      "link": "https://www.engadget.com/2193679/kpmg-paper-ai-hallucinations/",
-      "published": "Sat, 13 Jun 2026 12:39:29 +0000"
-    },
-    {
-      "source": "Engadget",
-      "title": "Engadget review recap: Razr Ultra, AMD Radeon RX 9070 GRE and more",
-      "link": "https://www.engadget.com/2193149/engadget-review-recap-razr-ultra-amd-radeon-rx-9070-gre-and-more/",
-      "published": "Sat, 13 Jun 2026 12:00:00 +0000"
+      "source": "CNET",
+      "title": "Apple TV's New Camboy Crime Thriller Is the Perfect Summer Binge",
+      "link": "https://www.cnet.com/tech/services-and-software/maximum-pleasure-guaranteed-camboy-crime-thriller-apple-tv/",
+      "published": "Sun, 14 Jun 2026 13:01:28 +0000"
     },
     {
       "source": "CNET",
-      "title": "See If You're Eligible for a Payment From Google's $135M Data Settlement",
-      "link": "https://www.cnet.com/tech/mobile/google-data-harvesting-settlement-what-to-know-how-to-claim-135-million/",
-      "published": "Sat, 13 Jun 2026 13:01:06 +0000"
+      "title": "The Solstice Is Almost Here: What to Know About Summer's Brightest Moment",
+      "link": "https://www.cnet.com/culture/summer-solstice-everything-to-know-about-the-longest-day-of-the-year/",
+      "published": "Sun, 14 Jun 2026 12:52:45 +0000"
     },
     {
       "source": "CNET",
-      "title": "This Is the Apple Intelligence News From WWDC That Actually Matters for You",
-      "link": "https://www.cnet.com/tech/services-and-software/every-apple-intelligence-reveal-apple-wwdc-2026-news/",
-      "published": "Sat, 13 Jun 2026 13:00:46 +0000"
+      "title": "The Last Time the US Hosted the World Cup, One of the Weirdest Nights in Sports History Unfolded",
+      "link": "https://www.cnet.com/culture/entertainment/june-17th-1994-netflix-espn-30-for-30-world-cup-oj-simpson/",
+      "published": "Sun, 14 Jun 2026 12:15:37 +0000"
     },
     {
       "source": "CNET",
-      "title": "Disneyland and Disney World: New Lands, Rides and Summer Deals in 2026 and Beyond",
-      "link": "https://www.cnet.com/tech/walt-disney-world-disneyland-new-rides-lands-shows-attractions-characters-summer-deals-2026/",
-      "published": "Sat, 13 Jun 2026 12:44:49 +0000"
+      "title": "'There's a Lot of Restraint': How 'Toy Story 5' Balances New Technology With Nostalgia",
+      "link": "https://www.cnet.com/tech/services-and-software/pixar-toy-story-5-technology/",
+      "published": "Sun, 14 Jun 2026 12:00:46 +0000"
     },
     {
       "source": "CNET",
-      "title": "Apple iPhone 20: Everything We Know About the Radical Redesign Coming in 2027",
-      "link": "https://www.cnet.com/tech/mobile/apple-iphone-20th-anniversary-edition-rumors-2027/",
-      "published": "Sat, 13 Jun 2026 12:01:01 +0000"
-    },
-    {
-      "source": "CNET",
-      "title": "NBA Finals 2026: How to Watch Knicks vs. Spurs Game 5 Tonight",
-      "link": "https://www.cnet.com/tech/services-and-software/nba-finals-2026-how-to-watch-knicks-vs-spurs/",
-      "published": "Sat, 13 Jun 2026 12:00:43 +0000"
+      "title": "The Web Is Now Mostly Traveled by AI, Not People",
+      "link": "https://www.cnet.com/tech/services-and-software/its-official-agentic-bots-surf-the-web-more-than-real-people-do/",
+      "published": "Sun, 14 Jun 2026 11:00:43 +0000"
     },
     {
       "source": "MobileSyrup",
@@ -273,63 +273,69 @@
     },
     {
       "source": "MakeUseOf",
-      "title": "4 beginner Docker mistakes I made that took my homelab offline \u2014 and how I fixed each one",
-      "link": "https://www.makeuseof.com/beginner-docker-mistakes-made-took-homelab-offline-how-fixed/",
-      "published": "Sat, 13 Jun 2026 14:30:21 GMT"
+      "title": "I never have to ask \u201cis it me or the internet?\u201d thanks to this $10 build",
+      "link": "https://www.makeuseof.com/never-ask-me-or-internet-thanks-this-build/",
+      "published": "Sun, 14 Jun 2026 15:00:21 GMT"
     },
     {
       "source": "MakeUseOf",
-      "title": "I audited my Samsung's pre-installed apps and immediately disabled these \u2014 my phone felt lighter after",
-      "link": "https://www.makeuseof.com/disable-these-pre-installed-apps-on-samsung-phone/",
-      "published": "Sat, 13 Jun 2026 14:00:20 GMT"
+      "title": "If you're still using cd to navigate your terminal, you're doing it wrong",
+      "link": "https://www.makeuseof.com/if-youre-still-using-cd-to-navigate-your-terminal-doing-it-wrong/",
+      "published": "Sun, 14 Jun 2026 14:30:18 GMT"
     },
     {
       "source": "MakeUseOf",
-      "title": "This Gemini feature made all my other AI apps feel obsolete",
-      "link": "https://www.makeuseof.com/this-gemini-feature-made-all-my-other-ai-apps-feel-obsolete/",
-      "published": "Sat, 13 Jun 2026 13:30:20 GMT"
+      "title": "I re-enabled every Windows service I once disabled for speed and nothing actually slowed down",
+      "link": "https://www.makeuseof.com/these-windows-services-do-not-slow-down-pc/",
+      "published": "Sun, 14 Jun 2026 14:00:18 GMT"
     },
     {
       "source": "MakeUseOf",
-      "title": "I ran a DNS benchmark and found a resolver I had never heard of",
-      "link": "https://www.makeuseof.com/i-ran-a-dns-benchmark-and-found-a-resolver-i-had-never-heard-of/",
-      "published": "Sat, 13 Jun 2026 13:00:19 GMT"
+      "title": "My home server finally got a front page worth opening every morning",
+      "link": "https://www.makeuseof.com/home-server-got-front-page-worth-opening/",
+      "published": "Sun, 14 Jun 2026 13:31:08 GMT"
     },
     {
       "source": "MakeUseOf",
-      "title": "I tried the most minimal browser I could find and it changed how I work",
-      "link": "https://www.makeuseof.com/tried-most-minimal-browser-could-find-and-it-changed-how-i-work/",
-      "published": "Sat, 13 Jun 2026 11:00:37 GMT"
+      "title": "Manufacturer bloatware is finally becoming optional \u2014 and this app is proof it never needed to exist",
+      "link": "https://www.makeuseof.com/manufacturer-bloatware-optional-app-proof-never-needed/",
+      "published": "Sun, 14 Jun 2026 13:00:18 GMT"
     },
     {
       "source": "How-To Geek",
-      "title": "How I replaced my Kindle's boring lockscreen with custom wallpapers",
-      "link": "https://www.howtogeek.com/replaced-kindle-boring-lockscreen-custom-wallpapers/",
-      "published": "Sat, 13 Jun 2026 14:45:18 GMT"
+      "title": "I saved my favorite parts of the Internet for $0\u2014and it only took me 30 mins",
+      "link": "https://www.howtogeek.com/i-saved-my-favorite-parts-of-the-internet-for-0-dollars-and-it-only-took-me-30-mins/",
+      "published": "Sun, 14 Jun 2026 15:00:20 GMT"
     },
     {
       "source": "How-To Geek",
-      "title": "Your $1,000 audio cable sounds identical to a $10 one\u2014here's when that changes",
-      "link": "https://www.howtogeek.com/when-expensive-audio-cables-actually-matter/",
-      "published": "Sat, 13 Jun 2026 14:30:21 GMT"
+      "title": "The first Jellyfin setting I enable gives me a feature that Plex puts behind a paywall",
+      "link": "https://www.howtogeek.com/the-first-jellyfin-setting-i-enable-gives-me-a-feature-plex-puts-behind-a-paywall/",
+      "published": "Sun, 14 Jun 2026 14:45:17 GMT"
     },
     {
       "source": "How-To Geek",
-      "title": "Don\u2019t touch carbon fiber 3D printing filament until you\u2019ve read this",
-      "link": "https://www.howtogeek.com/dont-touch-carbon-fiber-3d-printing-filament-until-youve-read-this/",
-      "published": "Sat, 13 Jun 2026 14:00:19 GMT"
+      "title": "The 4 best things in my toolbox aren't even tools",
+      "link": "https://www.howtogeek.com/best-things-in-my-toolbox-arent-even-tools/",
+      "published": "Sun, 14 Jun 2026 14:30:18 GMT"
     },
     {
       "source": "How-To Geek",
-      "title": "BASIC ruled the '80s. Here's why Python quietly became the new gateway to coding",
-      "link": "https://www.howtogeek.com/basic-ruled-the-80s-heres-why-python-quietly-became-the-new-gateway-to-coding/",
-      "published": "Sat, 13 Jun 2026 13:46:19 GMT"
+      "title": "Stop restarting your PC and change these 5 Windows settings instead",
+      "link": "https://www.howtogeek.com/stop-restarting-windows-change-these-settings-instead/",
+      "published": "Sun, 14 Jun 2026 14:15:18 GMT"
     },
     {
       "source": "How-To Geek",
-      "title": "This Android app is so useful, I forgot it didn\u2019t come with my phone",
-      "link": "https://www.howtogeek.com/this-android-app-is-so-useful-i-forgot-it-didnt-come-with-my-phone/",
-      "published": "Sat, 13 Jun 2026 13:31:18 GMT"
+      "title": "I ditched \"Okay Nabu\" after training my own Home Assistant wake word",
+      "link": "https://www.howtogeek.com/ditched-okay-nabu-after-training-home-assistant-wake-word/",
+      "published": "Sun, 14 Jun 2026 13:45:17 GMT"
+    },
+    {
+      "source": "Popular Mechanics",
+      "title": "A Bizarre New Form of Dark Matter Could Uncover the Mysteries of Gravity\u2014And Our Universe",
+      "link": "https://www.popularmechanics.com/space/deep-space/a71550335/dark-matter-gravity-mysteries/",
+      "published": "Sun, 14 Jun 2026 13:31:41 +0000"
     },
     {
       "source": "Popular Mechanics",
@@ -356,10 +362,22 @@
       "published": "Fri, 12 Jun 2026 20:15:00 +0000"
     },
     {
-      "source": "Popular Mechanics",
-      "title": "Scientists Think Barnacles May Be Able to Help Solve Aviation\u2019s Greatest Mystery. Meet the Tiny Crustacean Detectives on the MH370 Case.",
-      "link": "https://www.popularmechanics.com/video/a71560287/astounding-pop-mech-show-barnacles-may-help-find-the-mh370-case_1780070571_1780591538_1781192819h/",
-      "published": "Fri, 12 Jun 2026 18:16:57 +0000"
+      "source": "Popular Science",
+      "title": "Mysterious Amazonian \u2018ghost dog\u2019 caught on camera",
+      "link": "https://www.popsci.com/environment/ghost-dog-amazon-south-america/",
+      "published": "Sun, 14 Jun 2026 10:21:00 -0400"
+    },
+    {
+      "source": "Popular Science",
+      "title": "How blue whales became Earth\u2019s largest creature\u2014ever",
+      "link": "https://www.popsci.com/environment/why-blue-whales-largest-animal/",
+      "published": "Sun, 14 Jun 2026 07:46:00 -0400"
+    },
+    {
+      "source": "Popular Science",
+      "title": "How to find free movies on YouTube",
+      "link": "https://www.popsci.com/diy/how-to-find-free-movies-on-youtube/",
+      "published": "Sat, 13 Jun 2026 13:15:00 -0400"
     },
     {
       "source": "Popular Science",
@@ -374,22 +392,10 @@
       "published": "Sat, 13 Jun 2026 08:00:00 -0400"
     },
     {
-      "source": "Popular Science",
-      "title": "Why summer flies by as an adult\u2014but lasted forever when you were 10",
-      "link": "https://www.popsci.com/science/why-summer-flies-by-podcast/",
-      "published": "Fri, 12 Jun 2026 16:01:00 -0400"
-    },
-    {
-      "source": "Popular Science",
-      "title": "Raccoons might be spreading diarrhea-causing bacteria in Japan",
-      "link": "https://www.popsci.com/environment/raccoon-spreading-diarrhea-bacteria-japan/",
-      "published": "Fri, 12 Jun 2026 14:00:00 -0400"
-    },
-    {
-      "source": "Popular Science",
-      "title": "Long-lost World War II \u2018Hellship\u2019 may have finally been found",
-      "link": "https://www.popsci.com/science/lost-world-war-ii-hellship-found/",
-      "published": "Fri, 12 Jun 2026 12:19:00 -0400"
+      "source": "BOE Report",
+      "title": "Iran says draft US deal includes oil sanctions waiver, nuclear limits and asset release",
+      "link": "https://boereport.com/2026/06/14/iran-says-draft-us-deal-includes-oil-sanctions-waiver-nuclear-limits-and-asset-release/",
+      "published": "Sun, 14 Jun 2026 10:42:12 +0000"
     },
     {
       "source": "BOE Report",
@@ -416,154 +422,148 @@
       "published": "Fri, 12 Jun 2026 17:27:36 +0000"
     },
     {
-      "source": "BOE Report",
-      "title": "US energy firms cut rigs for first time in eight weeks, Baker Hughes says",
-      "link": "https://boereport.com/2026/06/12/us-energy-firms-cut-rigs-for-first-time-in-eight-weeks-baker-hughes-says/",
-      "published": "Fri, 12 Jun 2026 17:01:13 +0000"
+      "source": "OilPrice",
+      "title": "Fiji Blocks Controversial Australian-Backed Waste Incinerator Project",
+      "link": "https://oilprice.com/Energy/Energy-General/Fiji-Blocks-Controversial-Australian-Backed-Waste-Incinerator-Project.html",
+      "published": "Sun, 14 Jun 2026 10:00:00 -0500"
     },
     {
       "source": "OilPrice",
-      "title": "The Oil Market Could Be Weeks From a Breaking Point",
-      "link": "https://oilprice.com/Energy/Crude-Oil/The-Oil-Market-Could-Be-Weeks-From-a-Breaking-Point.html",
-      "published": "Fri, 12 Jun 2026 18:00:00 -0500"
+      "title": "Fuel Tax Changes Hit Six States As Energy Inflation Accelerates",
+      "link": "https://oilprice.com/Energy/Energy-General/Fuel-Tax-Changes-Hit-Six-States-As-Energy-Inflation-Accelerates.html",
+      "published": "Sat, 13 Jun 2026 16:00:00 -0500"
     },
     {
       "source": "OilPrice",
-      "title": "China's Fusion Reactor on Track for Ignition by 2027, Threatening U.S. Lead",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Chinas-Fusion-Reactor-on-Track-for-Ignition-by-2027-Threatening-US-Lead.html",
-      "published": "Fri, 12 Jun 2026 17:00:00 -0500"
+      "title": "The Promise and Peril of Jamaica\u2019s Offshore Oil Ambitions",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Promise-and-Peril-of-Jamaicas-Offshore-Oil-Ambitions.html",
+      "published": "Sat, 13 Jun 2026 14:00:00 -0500"
     },
     {
       "source": "OilPrice",
-      "title": "The Hidden Supply Chain Behind Every SpaceX Launch",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Hidden-Supply-Chain-Behind-Every-SpaceX-Launch.html",
-      "published": "Fri, 12 Jun 2026 15:00:00 -0500"
+      "title": "UK Sets January 2027 Deadline for Ban on Fuel Made From Russian Crude",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/UK-Sets-January-2027-Deadline-for-Ban-on-Fuel-Made-From-Russian-Crude.html",
+      "published": "Sat, 13 Jun 2026 12:30:00 -0500"
     },
     {
       "source": "OilPrice",
-      "title": "U.S. and Uzbekistan Deepen Economic Ties With New Investment Pact",
-      "link": "https://oilprice.com/Energy/Energy-General/US-and-Uzbekistan-Deepen-Economic-Ties-With-New-Investment-Pact.html",
-      "published": "Fri, 12 Jun 2026 13:00:00 -0500"
-    },
-    {
-      "source": "OilPrice",
-      "title": "Pace of US Oil Drilling Inches Up",
-      "link": "https://oilprice.com/Energy/Energy-General/Pace-of-US-Oil-Drilling-Inches-Up.html",
-      "published": "Fri, 12 Jun 2026 12:12:00 -0500"
+      "title": "Russia, China, and Iran Are Joining Forces Against Western Pressure",
+      "link": "https://oilprice.com/Geopolitics/North-America/Russia-China-and-Iran-Are-Joining-Forces-Against-Western-Pressure.html",
+      "published": "Sat, 13 Jun 2026 12:00:00 -0500"
     },
     {
       "source": "Daily Wire",
-      "title": "America 250 Comes To Life Through The Power Of Story",
-      "link": "https://www.dailywire.com/news/america-250-comes-to-life-through-the-power-of-story",
-      "published": "Sat, 13 Jun 2026 09:00:42 GMT"
+      "title": "The Flaw In A Professor\u2019s Race-Based Defense Of Karmelo Anthony",
+      "link": "https://www.dailywire.com/news/the-flaw-in-a-professors-race-based-defense-of-karmelo-anthony",
+      "published": "Sun, 14 Jun 2026 09:49:59 GMT"
     },
     {
       "source": "Daily Wire",
-      "title": "She Loved God, Booze, And Cigarettes \u2014\u00a0And She Thought Feminists Got Everything Wrong",
-      "link": "https://www.dailywire.com/news/how-a-mystery-novelist-saw-the-culture-war-coming",
-      "published": "Sat, 13 Jun 2026 07:00:58 GMT"
+      "title": "Judge In Karmelo Anthony Murder Trial Breaks His Silence",
+      "link": "https://www.dailywire.com/news/judge-in-karmelo-anthony-murder-trial-breaks-his-silence",
+      "published": "Sun, 14 Jun 2026 09:49:25 GMT"
     },
     {
       "source": "Daily Wire",
-      "title": "Gen Z YouTube Creators Are Shaking Up Tinseltown",
-      "link": "https://www.dailywire.com/news/gen-z-youtube-creators-are-shaking-up-tinseltown",
-      "published": "Sat, 13 Jun 2026 06:00:36 GMT"
+      "title": "Happy 80th Birthday, Mr. President!",
+      "link": "https://www.dailywire.com/news/happy-80th-birthday-mr-president",
+      "published": "Sun, 14 Jun 2026 08:00:20 GMT"
     },
     {
       "source": "Daily Wire",
-      "title": "The Fashion Icon Who Never Stopped Believing In America",
-      "link": "https://www.dailywire.com/news/the-fashion-icon-who-never-stopped-believing-in-america",
-      "published": "Sat, 13 Jun 2026 06:00:07 GMT"
+      "title": "Domes Are Communist And European \u2014 Save Soldier Field",
+      "link": "https://www.dailywire.com/news/domes-are-communist-and-european-save-soldier-field",
+      "published": "Sun, 14 Jun 2026 08:00:16 GMT"
     },
     {
       "source": "Daily Wire",
-      "title": "James Talarico Wants To Rebrand As A Moderate. But We Have The Receipts.",
-      "link": "https://www.dailywire.com/news/james-talarico-wants-to-rebrand-as-a-moderate-but-we-have-the-receipts",
-      "published": "Sat, 13 Jun 2026 05:00:37 GMT"
+      "title": "The Bigger Story Behind Trump\u2019s White House UFC Event",
+      "link": "https://www.dailywire.com/news/the-bigger-story-behind-trumps-white-house-ufc-event",
+      "published": "Sun, 14 Jun 2026 06:41:59 GMT"
     },
     {
       "source": "Western Standard",
-      "title": "RED CARD: Majority of Toronto and Vancouver residents say World Cup costs outweigh benefits",
-      "link": "https://www.westernstandard.news/news/red-card-majority-of-toronto-and-vancouver-residents-say-world-cup-costs-outweigh-benefits/74089",
-      "published": "Sat, 13 Jun 2026 14:00:00 +0000"
+      "title": "Federal memo says $20 million in lost stockpile drugs were for biological threat",
+      "link": "https://www.westernstandard.news/news/federal-memo-says-20-million-in-lost-stockpile-drugs-were-for-biological-threat/74123",
+      "published": "Sun, 14 Jun 2026 14:00:00 +0000"
     },
     {
       "source": "Western Standard",
-      "title": "DONUT WAR: Tim Hortons scrambles to reclaim Canadian coffee culture with new PR campaign",
-      "link": "https://www.westernstandard.news/news/donut-war-tim-hortons-scrambles-to-reclaim-canadian-coffee-culture-with-new-pr-campaign/74078",
-      "published": "Sat, 13 Jun 2026 13:00:00 +0000"
+      "title": "ZITNER: If monopolies are un-Canadian, what about Medicare?",
+      "link": "https://www.westernstandard.news/opinion/zitner-if-monopolies-are-un-canadian-what-about-medicare/74194",
+      "published": "Sun, 14 Jun 2026 13:30:00 +0000"
     },
     {
       "source": "Western Standard",
-      "title": "Most Canadians see little benefit from AI at work as concerns over downsides grow",
-      "link": "https://www.westernstandard.news/news/most-canadians-see-little-benefit-from-ai-at-work-as-concerns-over-downsides-grow/74066",
-      "published": "Sat, 13 Jun 2026 12:00:00 +0000"
+      "title": "Federal advocate warns Canada's housing affordability crisis could take 1,000 years to fix",
+      "link": "https://www.westernstandard.news/news/federal-advocate-warns-canadas-housing-affordability-crisis-could-take-1000-years-to-fix/74085",
+      "published": "Sun, 14 Jun 2026 12:00:00 +0000"
     },
     {
       "source": "Western Standard",
-      "title": "FLETCHER: FIFA World Cup fever hits BC and Canada right in the deficit",
-      "link": "https://www.westernstandard.news/opinion/fletcher-fifa-world-cup-fever-hits-bc-and-canada-right-in-the-deficit/74222",
-      "published": "Sat, 13 Jun 2026 11:30:00 +0000"
+      "title": "MORGAN: Alberta's referendum is very real",
+      "link": "https://www.westernstandard.news/opinion/morgan-albertas-referendum-is-very-real/74156",
+      "published": "Sun, 14 Jun 2026 11:30:00 +0000"
     },
     {
       "source": "Times of Israel",
-      "title": "Activists rally to \u2018kick Israel out of FIFA\u2019 despite team\u2019s absence from World Cup",
-      "link": "https://www.timesofisrael.com/activists-rally-to-kick-israel-out-of-fifa-despite-teams-absence-from-world-cup/",
-      "published": "Sat, 13 Jun 2026 14:37:56 +0000"
+      "title": "Islands of sovereignty - Sponsored Content",
+      "link": "https://toi.li/U4AvzB",
+      "published": "Sun, 14 Jun 2026 14:40:30 +0000"
     },
     {
       "source": "Times of Israel",
-      "title": "Pakistan claims US-Iran deal to be signed within 24 hours; Tehran pushes back",
-      "link": "https://www.timesofisrael.com/pakistan-claims-us-iran-deal-to-be-signed-within-24-hours-tehran-pushes-back/",
-      "published": "Sat, 13 Jun 2026 13:53:22 +0000"
+      "title": "Anti-Israel activists in Spain vandalize carriages made for Tel Aviv Light Rail",
+      "link": "https://www.timesofisrael.com/anti-israel-activists-in-spain-vandalize-carriages-made-for-tel-aviv-light-rail/",
+      "published": "Sun, 14 Jun 2026 14:38:41 +0000"
     },
     {
       "source": "Times of Israel",
-      "title": "Rooftop installation brings searing Oct. 7 imagery and poignant lyrics to Azrieli Mall",
-      "link": "https://www.timesofisrael.com/rooftop-installation-brings-searing-oct-7-imagery-and-poignant-lyrics-to-azrieli-mall/",
-      "published": "Sat, 13 Jun 2026 13:47:17 +0000"
+      "title": "US refuelers at Ben Gurion could ground 2.4 million summer travelers, Regev warns",
+      "link": "https://www.timesofisrael.com/us-refuelers-at-ben-gurion-could-ground-2-4-million-summer-travelers-regev-warns/",
+      "published": "Sun, 14 Jun 2026 14:01:22 +0000"
     },
     {
       "source": "Times of Israel",
-      "title": "13,000 Jews were driven out of Poland in 1968. Now, some are returning to tell their story",
-      "link": "https://www.timesofisrael.com/13000-jews-were-driven-out-of-poland-in-1968-now-some-are-returning-to-tell-their-story/",
-      "published": "Sat, 13 Jun 2026 12:54:05 +0000"
+      "title": "Contact? Groundbreaking Israeli method may soon detect life in outer space",
+      "link": "https://www.timesofisrael.com/contact-groundbreaking-israeli-method-may-soon-detect-life-in-outer-space/",
+      "published": "Sun, 14 Jun 2026 13:56:53 +0000"
     },
     {
       "source": "Times of Israel",
-      "title": "Anthropic says it cut access to powerful AI models over US \u2018national security\u2019 order",
-      "link": "https://www.timesofisrael.com/anthropic-says-it-cut-access-to-powerful-ai-models-over-us-national-security-order/",
-      "published": "Sat, 13 Jun 2026 12:33:06 +0000"
+      "title": "Netanyahu and Herzog send Trump birthday wishes as he turns 80",
+      "link": "https://www.timesofisrael.com/netanyahu-and-herzog-send-trump-birthday-wishes-as-he-turns-80/",
+      "published": "Sun, 14 Jun 2026 13:22:21 +0000"
     },
     {
       "source": "Junge Freiheit",
-      "title": "Brandmauer in Sachsen-Anhalt Jetzt \u00e4u\u00dfern sich Siegmund und Heuer zu ihrem \u201eKumpel-Foto\u201c",
-      "link": "https://jungefreiheit.de/politik/deutschland/2026/jetzt-aeussern-sich-siegmund-und-heuer-zu-ihrem-kumpel-foto/",
-      "published": "Sat, 13 Jun 2026 13:05:31 +0000"
+      "title": "Blick auf eine alte Ordnung Was die 90er so besonders machte",
+      "link": "https://jungefreiheit.de/debatte/kommentar/2026/was-die-90er-so-besonders-machte/",
+      "published": "Sun, 14 Jun 2026 15:06:34 +0000"
     },
     {
       "source": "Junge Freiheit",
-      "title": "Koalition unter Zugzwang Fall Liebich bringt das Selbstbestimmungsgesetz ins Wanken",
-      "link": "https://jungefreiheit.de/politik/deutschland/2026/fall-liebich-bringt-das-selbstbestimmungsgesetz-ins-wanken/",
-      "published": "Sat, 13 Jun 2026 13:04:33 +0000"
+      "title": "Nach dem UN-Debakel Deutschlands hart erkaufter Gesichtsverlust",
+      "link": "https://jungefreiheit.de/debatte/kommentar/2026/deutschlands-hart-erkaufter-gesichtsverlust/",
+      "published": "Sun, 14 Jun 2026 14:31:11 +0000"
     },
     {
       "source": "Junge Freiheit",
-      "title": "K\u00f6nig von Bayern Ludwig II. war mehr als ein weltfremder Schlossbauer",
-      "link": "https://jungefreiheit.de/wissen/geschichte/2026/ludwig-ii-war-mehr-als-ein-weltfremder-schlossbauer/",
-      "published": "Sat, 13 Jun 2026 12:35:58 +0000"
+      "title": "M\u00e4nnergesundheit Was Testosteron wirklich \u00fcber den Mann aussagt",
+      "link": "https://jungefreiheit.de/wissen/natur-und-technik/2026/was-testosteron-wirklich-ueber-den-mann-aussagt/",
+      "published": "Sun, 14 Jun 2026 13:54:46 +0000"
     },
     {
       "source": "Junge Freiheit",
-      "title": "Br\u00fcsseler Parteienaufsicht Wie eine EU-Beh\u00f6rde die rechte ESN-Partei schikaniert",
-      "link": "https://jungefreiheit.de/politik/ausland/2026/wie-eine-eu-behoerde-die-rechte-esn-partei-schikaniert/",
-      "published": "Sat, 13 Jun 2026 12:28:06 +0000"
+      "title": "Schattenhaushalte \u201eSonderverm\u00f6gen\u201c: Zwischen Anspruch und Wirklichkeit verl\u00e4uft eine riesige Kluft",
+      "link": "https://jungefreiheit.de/wirtschaft/2026/sondervermoegen-zwischen-anspruch-und-wirklichkeit-verlaeuft-eine-riesige-kluft/",
+      "published": "Sun, 14 Jun 2026 13:04:06 +0000"
     },
     {
       "source": "Junge Freiheit",
-      "title": "JF-Exklusiv Ex-Linken-Abgeordnete Nastic sollte AfD-Bundestagsfraktion beraten",
-      "link": "https://jungefreiheit.de/politik/deutschland/2026/ex-linken-abgeordnete-nastic-sollte-afd-bundestagsfraktion-beraten/",
-      "published": "Sat, 13 Jun 2026 12:15:07 +0000"
+      "title": "Portrait Christian von Stetten: Der Mann, der der Koalition das Aus prophezeit",
+      "link": "https://jungefreiheit.de/politik/deutschland/2026/portrait-christian-von-stetten-cdu-konservativer/",
+      "published": "Sun, 14 Jun 2026 12:23:12 +0000"
     },
     {
       "source": "Budget Bytes",
@@ -597,6 +597,18 @@
     },
     {
       "source": "Spend With Pennies",
+      "title": "Crispy Bacon Without the Stovetop Mess",
+      "link": "https://www.spendwithpennies.com/how-to-cook-bacon-in-the-oven/?adt_ei=*|EMAIL|*",
+      "published": "Sun, 14 Jun 2026 15:00:00 +0000"
+    },
+    {
+      "source": "Spend With Pennies",
+      "title": "The Frosting That Makes Every Dessert Better",
+      "link": "https://www.spendwithpennies.com/best-ever-cream-cheese-frosting/?adt_ei=*|EMAIL|*",
+      "published": "Sat, 13 Jun 2026 15:00:00 +0000"
+    },
+    {
+      "source": "Spend With Pennies",
       "title": "Creamy Caesar Pasta Salad for Easy Summer Dinners",
       "link": "https://www.spendwithpennies.com/caesar-pasta-salad/?adt_ei=*|EMAIL|*",
       "published": "Fri, 12 Jun 2026 14:58:00 +0000"
@@ -612,18 +624,6 @@
       "title": "Weekly Meal Plan June 15, 2026",
       "link": "https://www.spendwithpennies.com/weekly-meal-plan-june-15-2026/?adt_ei=*|EMAIL|*",
       "published": "Wed, 10 Jun 2026 16:00:00 +0000"
-    },
-    {
-      "source": "Spend With Pennies",
-      "title": "The Ultimate Fresh & Delicious Summer Salad",
-      "link": "https://www.spendwithpennies.com/caprese-salad/?adt_ei=*|EMAIL|*",
-      "published": "Wed, 10 Jun 2026 14:45:00 +0000"
-    },
-    {
-      "source": "Spend With Pennies",
-      "title": "These Greek Chicken Bowls Are an Easy Weeknight Dinner",
-      "link": "https://www.spendwithpennies.com/greek-chicken-bowls/?adt_ei=*|EMAIL|*",
-      "published": "Tue, 09 Jun 2026 14:41:00 +0000"
     },
     {
       "source": "Damn Delicious",
@@ -687,33 +687,33 @@
     },
     {
       "source": "Tom's Hardware",
-      "title": "Save $500 on this beastly gaming rig with an RTX 5060 Ti 16GB, Ryzen 7800X3D, and 32GB of RAM \u2014 Skytech's desktop gaming PC now just $1,499",
-      "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd500-on-this-beastly-gaming-rig-with-an-rtx-5060-ti-16gb-ryzen-7800x3d-and-32gb-of-ram-skytechs-desktop-gaming-pc-now-just-usd1-499",
-      "published": "Sat, 13 Jun 2026 14:29:37 +0000"
+      "title": "Intel's upcoming 'Raptor Lake Next' will reportedly top out at 20 cores and retain Core 200 branding \u2014 Lineup may include a special 10-core SKU with 24MB of L3 cache",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intels-upcoming-raptor-lake-next-will-reportedly-top-out-at-20-cores-and-retain-core-200-branding-lineup-may-include-a-special-10-core-sku-with-24mb-of-l3-cache",
+      "published": "Sun, 14 Jun 2026 14:57:07 +0000"
     },
     {
       "source": "Tom's Hardware",
-      "title": "More than 75 data center build-outs worth $130 billion have been successfully blocked in the first four months of 2026 \u2014 bipartisan opposition mounts nationwide over fears of soaring power and water costs",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/more-than-75-data-center-build-outs-worth-usd130-billion-have-been-successfully-blocked-in-the-first-four-months-of-2026-bipartisan-opposition-mounts-nationwide-over-fears-of-soaring-power-and-water-costs",
-      "published": "Sat, 13 Jun 2026 14:13:22 +0000"
+      "title": "Amazon says its data centers consume only 0.075% of the water Americans use for watering their lawns and gardens \u2014 company also boasts of its improvements in water efficiency",
+      "link": "https://www.tomshardware.com/desktops/servers/amazon-says-its-data-centers-consume-only-0-075-percent-of-the-water-americans-use-for-watering-their-lawns-and-gardens-company-also-boasts-of-its-improvements-in-water-efficiency",
+      "published": "Sun, 14 Jun 2026 14:25:00 +0000"
     },
     {
       "source": "Tom's Hardware",
-      "title": "AMD challenges Nvidia's DGX Spark with $3,999 Ryzen AI Halo with Windows 11 support \u2014 Strix Halo desktop undercuts Nvidia by $700, packs 128GB of unified memory",
-      "link": "https://www.tomshardware.com/desktops/mini-pcs/amd-challenges-nvidias-dgx-spark-with-usd3-999-ryzen-ai-halo-with-windows-11-support-strix-halo-desktop-undercuts-nvidia-by-usd700-packs-128gb-of-unified-memory",
-      "published": "Sat, 13 Jun 2026 14:12:34 +0000"
+      "title": "Computer History Museum recalls \u2018astonishing\u2019 retro haul recovered from abandoned German warehouse \u2014 over 2,000 artifacts spanning the 1930s to 1980s required seven tractor-trailers after a WWII bomb scare",
+      "link": "https://www.tomshardware.com/tech-industry/computer-history-museum-recalls-astonishing-retro-haul-recovered-from-abandoned-german-warehouse-over-2-000-artifacts-spanning-the-1930s-to-1980s-required-seven-tractor-trailers-after-a-wwii-bomb-scare",
+      "published": "Sun, 14 Jun 2026 14:00:00 +0000"
     },
     {
       "source": "Tom's Hardware",
-      "title": "Netgear countersues TP-Link, saying firm 'remains, at its core, a Chinese company selling Chinese-made products' \u2014 alleges its 'American company' rebrand is false advertising",
-      "link": "https://www.tomshardware.com/networking/routers/netgear-countersues-tp-link-alleging-its-american-company-rebrand-is-false-advertising",
-      "published": "Sat, 13 Jun 2026 13:47:29 +0000"
+      "title": "Apple made marketing gold from the Power Mac G4 'supercomputer' export ban in 1999 \u2014 Pentagon banned sales of the 400 MHz G4 in 50 countries when it launched and became the first PC to be classed as a weapon",
+      "link": "https://www.tomshardware.com/tech-industry/apple-made-marketing-gold-from-the-power-mac-g4-supercomputer-export-ban-in-1999-pentagon-banned-sales-of-the-400-mhz-g4-in-50-countries-when-it-launched-and-became-the-first-pc-to-be-classed-as-a-weapon",
+      "published": "Sun, 14 Jun 2026 14:00:00 +0000"
     },
     {
       "source": "Tom's Hardware",
-      "title": "Nvidia raises RTX Pro 6000 Blackwell GPU pricing to $13,250 \u2014 55% increase over MSRP in a year's time",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-raises-rtx-pro-6000-blackwell-gpu-pricing-to-usd13-250-55-percent-increase-over-msrp-in-a-years-time",
-      "published": "Sat, 13 Jun 2026 12:30:00 +0000"
+      "title": "Researchers recycle old phones and cluster them into \u2018computing platforms\u2019 \u2014 says processors on modern smartphones deliver higher single-core performance than comparable multicore servers",
+      "link": "https://www.tomshardware.com/desktops/servers/researchers-recycle-old-phones-and-cluster-them-into-computing-platforms-says-processors-on-modern-smartphones-deliver-higher-single-core-performance-than-comparable-multicore-servers",
+      "published": "Sun, 14 Jun 2026 13:34:49 +0000"
     }
   ]
 }
