@@ -76,7 +76,11 @@ now = datetime.now()
 cleaned_articles = []
 
 for article in existing_links.values():
+   if "added" in article:
     added_time = datetime.fromisoformat(article["added"])
+else:
+    # If old article, treat as new so it doesn't get deleted
+    added_time = now
 
     age = now - added_time
 
