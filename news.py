@@ -1,102 +1,76 @@
 import feedparser
 import json
-import os
-from datetime import datetime, timedelta
+import requests
+from bs4 import BeautifulSoup
+from datetime import datetime
 
-FEED_FILE = "feeds.txt"
-OUTPUT_FILE = "news.json"
-MAX_DAYS = 3   # keep articles for 3 days
+sources = []
 
-# -------------------------
-# LOAD EXISTING ARTICLES
-# -------------------------
-if os.path.exists(OUTPUT_FILE):
-    with open(OUTPUT_FILE, "r") as f:
-        existing_data = json.load(f)
-        existing_articles = existing_data.get("articles", [])
-else:
-    existing_articles = []
-
-# Create a lookup (avoid duplicates)
-existing_links = {a["link"]: a for a in existing_articles}
-
-# -------------------------
-# LOAD FEEDS
-# -------------------------
-feeds = []
-
-with open(FEED_FILE, "r") as f:
+with open("feeds.txt", "r") as f:
     for line in f:
-        line = line.strip()
-        if not line:
+        parts = line.strip().split("|")
+
+        if len(parts) != 4:
             continue
 
-        parts = line.split("|")
+        type_, name, source, keywords = parts
+        sources.append((type_, name, source, keywords))
 
-        if len(parts) < 2:
-            continue
+all_articles = []
 
-        name, url = parts[0], parts[1]
-        feeds.append((name, url))
+def matches_keywords(text, keywords):
+    text = text.lower()
+    for kw in keywords:
+        if kw.strip().lower() not in text:
+            return False
+    return True
 
-# -------------------------
-# FETCH NEW ARTICLES
-# -------------------------
-for name, url in feeds:
-    print(f"Processing: {name}")
+for type_, name, source, keywords in sources:
+    keyword_list = keywords.split(",")
 
-    try:
-        feed = feedparser.parse(url)
+    print(f"Processing {name} ({type_})")
 
-        for entry in feed.entries[:5]:
-            link = entry.link
+    # -----------------------
+    # RSS MODE
+    # -----------------------
+    if type_ == "RSS":
+        feed = feedparser.parse(source)
 
-            # Skip if already exists
-            if link in existing_links:
-                continue
+        for entry in feed.entries:
+            text = entry.title + " " + entry.get("summary", "")
 
-            article = {
-                "source": name,
-                "title": entry.title,
-                "link": link,
-                "published": entry.get("published", ""),
-                "saved": False,
-                "added": datetime.now().isoformat()
-            }
+            if matches_keywords(text, keyword_list):
+                all_articles.append({
+                    "source": name,
+                    "title": entry.title,
+                    "link": entry.link,
+                    "published": entry.get("published", "")
+                })
 
-            existing_links[link] = article
+    # -----------------------
+    # SEARCH/SCRAPE MODE (simple version)
+    # -----------------------
+    if type_ == "SEARCH":
+        try:
+            r = requests.get(source, timeout=10)
+            soup = BeautifulSoup(r.text, "html.parser")
 
-    except Exception as e:
-        print(f"Error with {name}: {e}")
+            text = soup.get_text()
 
-# -------------------------
-# CLEAN OLD ARTICLES
-# -------------------------
-now = datetime.now()
-cleaned_articles = []
+            if matches_keywords(text, keyword_list):
+                all_articles.append({
+                    "source": name,
+                    "title": f"Match found for {name}",
+                    "link": source,
+                    "published": ""
+                })
 
-for article in existing_links.values():
-   if "added" in article:
-    added_time = datetime.fromisoformat(article["added"])
-else:
-    # If old article, treat as new so it doesn't get deleted
-    added_time = now
+        except Exception as e:
+            print(f"Error scraping {name}: {e}")
 
-    age = now - added_time
-
-    # Keep if:
-    # - less than MAX_DAYS old
-    # - OR saved
-    if age < timedelta(days=MAX_DAYS) or article.get("saved"):
-        cleaned_articles.append(article)
-
-# -------------------------
-# SAVE FILE
-# -------------------------
-with open(OUTPUT_FILE, "w") as f:
+# SAVE
+with open("news.json", "w") as f:
     json.dump({
         "updated": datetime.now().isoformat(),
-        "articles": cleaned_articles
+        "articles": all_articles
     }, f, indent=2)
-
-print("DONE: retention applied")
