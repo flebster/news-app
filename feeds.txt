@@ -1,35 +1,32 @@
-Lifehacker|https://lifehacker.com/feed
-iPhone in Canada|https://www.iphoneincanada.ca/feed/
-iFixit|https://www.ifixit.com/News/rss
-TechCrunch|https://techcrunch.com/feed/
-Ars Technica|https://feeds.arstechnica.com/arstechnica/index
-Engadget|https://www.engadget.com/rss.xml
-Gizmodo|https://gizmodo.com/rss
-CNET|https://www.cnet.com/rss/news/
-MobileSyrup|https://mobilesyrup.com/feed/
-MakeUseOf|https://www.makeuseof.com/feed/
-How-To Geek|https://www.howtogeek.com/feed/
-National Geographic|https://www.nationalgeographic.com/content/natgeo/en_us/index.rss
-Popular Mechanics|https://www.popularmechanics.com/rss/all.xml/
-Popular Science|https://www.popsci.com/rss/
-BOE Report|https://boereport.com/feed/
-OilPrice|https://oilprice.com/rss/main
-Rigzone|https://www.rigzone.com/news/rss/
-World Oil|https://www.worldoil.com/rss.xml
-Daily Wire|https://www.dailywire.com/feeds/rss.xml
-Western Standard|https://westernstandard.news/feed/
-Times of Israel|https://www.timesofisrael.com/feed/
-Times of Israel (Breaking)|https://www.timesofisrael.com/breaking-news/feed/
-Junge Freiheit|https://jungefreiheit.de/feed/
-Budget Bytes|https://www.budgetbytes.com/feed/
-Spend With Pennies|https://www.spendwithpennies.com/feed/
-Damn Delicious|https://damndelicious.net/feed/
-Skinnytaste|https://www.skinnytaste.com/feed/
-EatingWell|https://www.eatingwell.com/feed/
-BBC Good Food|https://www.bbcgoodfood.com/rss.xml
-French Cooking Academy|https://www.thefrenchcookingacademy.com/feed/
-Serious Eats|https://www.seriouseats.com/rss
-Mini PC Calgary Computer Wholesale|https://www.ebay.com/sch/i.html?_nkw=mini+pc+calgary+computer+wholesale&_rss=1
-MacBook Calgary Wholesale|https://www.ebay.com/sch/i.html?_nkw=macbook+calgary+wholesale&_rss=1
-Canali Jacket 40R Caspianpearl|https://www.ebay.com/sch/i.html?_nkw=canali+40r+jacket&_rss=1
-Tom's Hardware|https://www.tomshardware.com/feeds.xml
+Lifehacker|https://lifehacker.com/feed|Technology
+iPhone in Canada|https://www.iphoneincanada.ca/feed/|Technology
+iFixit|https://www.ifixit.com/News/rss|Technology
+TechCrunch|https://techcrunch.com/feed/|Technology
+Ars Technica|https://feeds.arstechnica.com/arstechnica/index|Technology
+Engadget|https://www.engadget.com/rss.xml|Technology
+Gizmodo|https://gizmodo.com/rss|Technology
+CNET|https://www.cnet.com/rss/news/|Technology
+MobileSyrup|https://mobilesyrup.com/feed/|Technology
+MakeUseOf|https://www.makeuseof.com/feed/|Technology
+How-To Geek|https://www.howtogeek.com/feed/|Technology
+National Geographic|https://www.nationalgeographic.com/content/natgeo/en_us/index.rss|Science
+Popular Mechanics|https://www.popularmechanics.com/rss/all.xml/|Science
+Popular Science|https://www.popsci.com/rss/|Science
+BOE Report|https://boereport.com/feed/|Oil and Gas
+OilPrice|https://oilprice.com/rss/main|Oil and Gas
+Rigzone|https://www.rigzone.com/news/rss/|Oil and Gas
+World Oil|https://www.worldoil.com/rss.xml|Oil and Gas
+Daily Wire|https://www.dailywire.com/feeds/rss.xml|News
+Western Standard|https://westernstandard.news/feed/|News
+Times of Israel|https://www.timesofisrael.com/feed/|News
+Times of Israel (Breaking)|https://www.timesofisrael.com/breaking-news/feed/|News
+Junge Freiheit|https://jungefreiheit.de/feed/|News
+Budget Bytes|https://www.budgetbytes.com/feed/|Recipes
+Spend With Pennies|https://www.spendwithpennies.com/feed/|Recipes
+Damn Delicious|https://damndelicious.net/feed/|Recipes
+Skinnytaste|https://www.skinnytaste.com/feed/|Recipes
+EatingWell|https://www.eatingwell.com/feed/|Recipes
+BBC Good Food|https://www.bbcgoodfood.com/rss.xml|Recipes
+French Cooking Academy|https://www.thefrenchcookingacademy.com/feed/|Recipes
+Serious Eats|https://www.seriouseats.com/rss|Recipes
+Tom's Hardware|https://www.tomshardware.com/feeds.xml|Technology
